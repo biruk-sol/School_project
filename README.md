@@ -39,7 +39,9 @@ GUI for the whole App.
 ## Contributers <a name = "Contributers"></a>
 
 Biruk Mulugeta 
-Eyosiyas Fitsum 
+
+Eyosias Fitsum 
+
 Muhammad Ahmed
 
 ### Note
