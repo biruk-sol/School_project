@@ -23,12 +23,17 @@ Code editor
 Example: Vs code
 ```
 
-### Installing
+### BackLog
 
-Download the folder from this Github repository and unzip the files. Navigate to the directory and use to code below to run the code. 
 
 ```
-python index.py
+Pomodoro
+
+Note manager
+
+Study planner
+
+GUI for the whole App.
 ```
 
 ## Contributers <a name = "Contributers"></a>
