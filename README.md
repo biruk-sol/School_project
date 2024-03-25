@@ -44,4 +44,4 @@ Muhammad Ahmed
 
 ### Note
 
-Check on for updates - 
+Check on for updates - https://github.com/biruk-sol/School_project
